@@ -27,7 +27,7 @@ Frontend developer from Moscow <img src="https://avatars.mds.yandex.net/get-dial
   </p>
 </p> 
 
-[![codewars](https://www.codewars.com/users/NoNameGeorge/badges/large)](https://www.codewars.com/users/NoNameGeorge) 
+[![codewars](https://www.codewars.com/users/NN%20George/badges/large)](https://www.codewars.com/users/NN%20George) 
   
 📫 You can email me: <a href='mailto:utjhubqG@yandex.ru'>utjhubqG@yandex.ru
 
