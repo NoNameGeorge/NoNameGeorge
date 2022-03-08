@@ -1,7 +1,5 @@
-<h2 align="center">Hi there, I'm Raphael
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <br/>
-Frontend developer from Penza  
-<img src="https://avatars.mds.yandex.net/get-dialogs/1644703/66b938b43ac29e5edb8d/orig" height="23"/></h2>
+<h2 align="center">Hi there, I'm George <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <br/>
+Frontend developer from Moscow <img src="https://avatars.mds.yandex.net/get-dialogs/1644703/66b938b43ac29e5edb8d/orig" height="23"/></h2>
 
 <h3 align="center">I love programming, finding solutions to complex and interesting tasks, learning and gaining new knowledge.</h3>
 
