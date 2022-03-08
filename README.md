@@ -8,11 +8,11 @@ Frontend developer from Moscow <img src="https://avatars.mds.yandex.net/get-dial
 <h3>My skills and stats</h3>
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=ExTRA86"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=NoNameGeorge"><img
            height=180
-           src="https://github-readme-stats.vercel.app/api?username=ExTRA86"/></a>
-   <a href="https://github.com/ExTRA86/github-readme-stats"><img height=180
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExTRA86&layout=compact"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=NoNameGeorge"/></a>
+   <a href="https://github.com/NoNameGeorge/github-readme-stats"><img height=180
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoNameGeorge&layout=compact"/></a>
 </p>
  <p align='center'>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -27,11 +27,11 @@ Frontend developer from Moscow <img src="https://avatars.mds.yandex.net/get-dial
   </p>
 </p> 
 
-[![codewars](https://www.codewars.com/users/ExTRA86/badges/large)](https://www.codewars.com/users/ExTRA86) 
+[![codewars](https://www.codewars.com/users/NoNameGeorge/badges/large)](https://www.codewars.com/users/NoNameGeorge) 
   
-📫 You can email me: <a href='mailto:tuishev.r.86@gmail.com'>tuishev.r.86@gmail.com
+📫 You can email me: <a href='mailto:utjhubqG@yandex.ru'>utjhubqG@yandex.ru
 
-![](https://komarev.com/ghpvc/?username=ExTRA86)
+![](https://komarev.com/ghpvc/?username=NoNameGeorge)
   
 
 
@@ -39,17 +39,17 @@ Frontend developer from Moscow <img src="https://avatars.mds.yandex.net/get-dial
 
 
 <!--
-**ExTRA86/ExTRA86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NoNameGeorge/NoNameGeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%23000000&lines=Frontend+developer+from+Russia)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ExTRA86)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoNameGeorge)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%23000000&lines=Frontend+developer+from+Russia)](https://git.io/typing-svg)
 
-[![codewars](https://www.codewars.com/users/ExTRA86/badges/large)](https://www.codewars.com/users/ExTRA86) 
+[![codewars](https://www.codewars.com/users/NoNameGeorge/badges/large)](https://www.codewars.com/users/NoNameGeorge) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ExTRA86)](https://github.com/ExTRA86/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NoNameGeorge)](https://github.com/NoNameGeorge/github-profile-trophy)
 
 
 Here are some ideas to get you started:
