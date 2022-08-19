@@ -1,7 +1,7 @@
 <h2 align="center">
-    Hi, my name is George <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> 
+    Hi, my name is George <img src="https://github.com/NoNameGeorge/NoNameGeorge/blob/main/images/Hi.gif" height="32"/> 
     <br/>
-    I'm a Frontend Developer :)
+    I'm a Frontend Developer <img src="https://github.com/NoNameGeorge/NoNameGeorge/blob/main/images/emoji.png" height="32"/> 
 </h2>
 
 <h3 align="center">I love programming, finding solutions to complex and interesting tasks, learning and gaining new knowledge.</h3>
