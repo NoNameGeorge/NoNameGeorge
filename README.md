@@ -4,31 +4,17 @@
     I'm a Frontend Developer <img src="https://github.com/NoNameGeorge/NoNameGeorge/blob/main/images/emoji.png" height="32"/> 
 </h2>
 
-<h3 align="center">I love programming, finding solutions to complex and interesting tasks, learning and gaining new knowledge.</h3>
+## My projects:
 
-<br/>
 
-<h3>My skills and stats</h3>
+### Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![JavaScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=NoNameGeorge"><img
-           height=180
-           src="https://github-readme-stats.vercel.app/api?username=NoNameGeorge"/></a>
-   <a href="https://github.com/NoNameGeorge/github-readme-stats"><img height=180
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoNameGeorge&layout=compact"/></a>
-</p>
- <p align='center'>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-</p>
+
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/N0Nam_e)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/nngeorge/)
 
 [![codewars](https://www.codewars.com/users/NN%20George/badges/large)](https://www.codewars.com/users/NN%20George)
 
@@ -49,15 +35,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NoNameGeorge)](https://github.com/NoNameGeorge/github-profile-trophy)
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
