@@ -1,5 +1,8 @@
-<h2 align="center">Hi there, I'm George <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <br/>
-Frontend developer from Moscow <img src="https://avatars.mds.yandex.net/get-dialogs/1644703/66b938b43ac29e5edb8d/orig" height="23"/></h2>
+<h2 align="center">
+    Hi, my name is George <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> 
+    <br/>
+    I'm a Frontend Developer :)
+</h2>
 
 <h3 align="center">I love programming, finding solutions to complex and interesting tasks, learning and gaining new knowledge.</h3>
 
@@ -25,18 +28,13 @@ Frontend developer from Moscow <img src="https://avatars.mds.yandex.net/get-dial
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   </p>
-</p> 
+</p>
 
-[![codewars](https://www.codewars.com/users/NN%20George/badges/large)](https://www.codewars.com/users/NN%20George) 
-  
+[![codewars](https://www.codewars.com/users/NN%20George/badges/large)](https://www.codewars.com/users/NN%20George)
+
 📫 You can email me: <a href='mailto:utjhubqG@yandex.ru'>utjhubqG@yandex.ru
 
 ![](https://komarev.com/ghpvc/?username=NoNameGeorge)
-  
-
-
-
-
 
 <!--
 **NoNameGeorge/NoNameGeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,7 +45,7 @@ Frontend developer from Moscow <img src="https://avatars.mds.yandex.net/get-dial
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%23000000&lines=Frontend+developer+from+Russia)](https://git.io/typing-svg)
 
-[![codewars](https://www.codewars.com/users/NoNameGeorge/badges/large)](https://www.codewars.com/users/NoNameGeorge) 
+[![codewars](https://www.codewars.com/users/NoNameGeorge/badges/large)](https://www.codewars.com/users/NoNameGeorge)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NoNameGeorge)](https://github.com/NoNameGeorge/github-profile-trophy)
 
