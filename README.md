@@ -5,7 +5,7 @@
     <br /><br />
 </h2>
 
-### My projects:
+<!-- ### My projects: -->
 
 ### Languages and Tools:
 <div>
@@ -27,7 +27,6 @@
 <br /><br />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoNameGeorge&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoNameGeorge&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=NoNameGeorge)
