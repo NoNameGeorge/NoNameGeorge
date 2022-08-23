@@ -31,7 +31,7 @@
 
 ![](https://komarev.com/ghpvc/?username=NoNameGeorge)
 
-📫 You can email me: <a href='mailto:utjhubqG@yandex.ru'>utjhubqG@yandex.ru
+📫 You can email me: <a href='mailto:nngeorge.job@gmail.com'>nngeorge.job@gmail.com
 
 
 <!-- [![codewars](https://www.codewars.com/users/NN%20George/badges/large)](https://www.codewars.com/users/NN%20George) -->
