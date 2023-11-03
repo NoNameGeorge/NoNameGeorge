@@ -6,9 +6,6 @@
 </h2>
 
 <!-- ### My projects: -->
-
-### Languages and Tools:
-
 <div>
 <h2 align="left">Front-end</h2>
 </div>
