@@ -1,4 +1,4 @@
-<h2 align="center">
+<h1 align="center">
     Hi, my name is George <img src="https://github.com/NoNameGeorge/NoNameGeorge/blob/main/images/Hi.gif" height="32"/> 
     <br/>
     I'm a Frontend Developer <img src="https://github.com/NoNameGeorge/NoNameGeorge/blob/main/images/emoji.png" height="32"/>
