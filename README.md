@@ -8,6 +8,128 @@
 <!-- ### My projects: -->
 
 ### Languages and Tools:
+
+<div>
+<h2 align="left">Front-end</h2>
+</div>
+
+> Generals
+<table width="100%">
+    <tr>
+      <td align="center" width="90" height="90">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+      <td align="center" width="90" height="90">
+        <a
+          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+      <td align="center" width="90" height="90">
+        <a
+          href="https://www.typescriptlang.org/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+      <td align="center" width="90" height="90">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+      <td align="center" width="90" height="90">
+        <a
+          href="https://www.w3schools.com/css/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+      <td align="center" width="90" height="90">
+        <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+            alt="sass"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+      <td align="center" width="90" height="90">
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+            alt="tailwind"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+      <td align="center" width="90" height="90">
+        <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+            alt="redux"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+      <td align="center" width="90" height="90">
+        <a href="https://graphql.org" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+            alt="graphql"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+      <td align="center" width="90" height="90">
+        <a>
+          <img
+            src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg"
+            width="40"
+            height="40"
+            alt="Apollo"
+          />
+        </a>
+      </td>
+    </tr>
+</table>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
