@@ -120,7 +120,7 @@
       </td>
     </tr>
 </table>
- > Quality code
+> Quality code
 
   <br />
 
