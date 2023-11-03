@@ -120,76 +120,77 @@
       </td>
     </tr>
 </table>
+
 > Quality code
 
-  <br />
+<br />
 
-  <table width="100%">
-    <tr>
-      <td align="center" width="90" height="90">
-        <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-          <img
-            src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg"
-            width="40"
-            height="40"
-            alt="eslint"
-          />
-        </a>
-      </td>
-      <td align="center" width="90" height="90">
-        <a href="https://prettier.io/" target="_blank" rel="noreferrer">
-          <img
-            src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg"
-            width="40"
-            height="40"
-            alt="prettier"
-          />
-        </a>
-      </td>
-      <td align="center" width="90" height="90">
-        <a href="https://stylelint.io/" target="_blank" rel="noreferrer">
-          <img
-            src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg"
-            width="40"
-            height="40"
-            alt="Stylelint"
-          />
-        </a>
-      </td>
-      <td align="center" width="90" height="90">
-        <a
-          href="https://typicode.github.io/husky/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://www.svgrepo.com/show/500093/husky.svg"
-            width="40"
-            height="40"
-            alt="Husky"
-          />
-          <br />
-          <span>Husky</span>
-        </a>
-      </td>
-      <td align="center" width="90" height="90">
-        <a
-          href="https://github.com/features/actions"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://www.svgrepo.com/show/306098/githubactions.svg"
-            width="40"
-            height="40"
-            alt="Github actions"
-          />
-          <br />
-          <span>Github <br />actions</span>
-        </a>
-      </td>
-    </tr>
-  </table>
+<table width="100%">
+<tr>
+  <td align="center" width="90" height="90">
+    <a href="https://eslint.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg"
+        width="40"
+        height="40"
+        alt="eslint"
+      />
+    </a>
+  </td>
+  <td align="center" width="90" height="90">
+    <a href="https://prettier.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg"
+        width="40"
+        height="40"
+        alt="prettier"
+      />
+    </a>
+  </td>
+  <td align="center" width="90" height="90">
+    <a href="https://stylelint.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg"
+        width="40"
+        height="40"
+        alt="Stylelint"
+      />
+    </a>
+  </td>
+  <td align="center" width="90" height="90">
+    <a
+      href="https://typicode.github.io/husky/"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="https://www.svgrepo.com/show/500093/husky.svg"
+        width="40"
+        height="40"
+        alt="Husky"
+      />
+      <br />
+      <span>Husky</span>
+    </a>
+  </td>
+  <td align="center" width="90" height="90">
+    <a
+      href="https://github.com/features/actions"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="https://www.svgrepo.com/show/306098/githubactions.svg"
+        width="40"
+        height="40"
+        alt="Github actions"
+      />
+      <br />
+      <span>Github <br />actions</span>
+    </a>
+  </td>
+</tr>
+</table>
 
 <h2 align="left">Back-end</h2>
 
