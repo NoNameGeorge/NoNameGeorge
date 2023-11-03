@@ -121,6 +121,118 @@
     </tr>
 </table>
 
+> Builders, Testing and other tools
+
+<br />
+
+<table he width="100%">
+<tr>
+  <td align="center" width="90" height="90">
+    <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
+        alt="webpack"
+        width="40"
+        height="40"
+      />
+    </a>
+  </td>
+<!--   <td align="center" width="90" height="90">
+    <a>
+      <img
+        src="https://vitejs.dev/logo.svg"
+        width="40"
+        height="40"
+        alt="Vite"
+      />
+    </a>
+    <br />Vite
+  </td> -->
+  <td align="center" width="90" height="90">
+    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+        alt="babel"
+        width="40"
+        height="40"
+      />
+    </a>
+  </td>
+  <td align="center" width="90" height="90">
+    <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+        alt="jest"
+        width="40"
+        height="40"
+      />
+    </a>
+  </td>
+  <td align="center" width="90" height="90">
+    <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+        alt="cypress"
+        width="40"
+        height="40"
+      />
+    </a>
+  </td>
+  <td align="center" width="90" height="90">
+    <a>
+      <img
+        src="https://assets.devographics.com/projects/testing_library.png"
+        width="40"
+        height="40"
+        alt="react testing library"
+      />
+    </a>
+  </td>
+  <td align="center" width="90" height="90">
+    <a>
+      <img
+        src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg"
+        width="40"
+        height="40"
+        alt="storybook"
+      />
+    </a>
+  </td>
+<!--   <td align="center" width="90" height="90">
+    <a>
+      <img
+        src="https://playwright.dev/img/playwright-logo.svg"
+        width="40"
+        height="40"
+        alt="playwright"
+      />
+    </a>
+  </td> -->
+  <td align="center" width="90" height="90">
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        alt="nodejs"
+        width="40"
+        height="40"
+      />
+    </a>
+  </td>
+<!--   <td align="center" width="90" height="90">
+    <a>
+      <img
+        src="https://media.zeemly.com/zeemly/product/material-ui.png"
+        width="40"
+        height="40"
+        alt="Material UI"
+      />
+    </a>
+    <br />
+    <span>UI-Kit</span>
+  </td> -->
+</tr>
+</table>
+
 > Quality code
 
 <br />
