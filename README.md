@@ -120,6 +120,56 @@
       </td>
     </tr>
 </table>
+
+
+
+
+ <h2 style="text-align: center">Others</h2>
+
+  <br />
+
+  <table width="100%">
+    <td align="center" width="90" height="90">
+      <img
+        src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+        alt="figma"
+        width="40"
+        height="40"
+      />
+    </td>
+    <td align="center" width="90" height="90">
+      <img
+        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+        alt="git"
+        width="40"
+        height="40"
+      />
+    </td>
+    <td align="center" width="90" height="90">
+      <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.svgrepo.com/show/354202/postman-icon.svg"
+          alt="postman"
+          width="40"
+          height="40"
+        />
+      </a>
+    </td>
+    <td align="center" width="90" height="90">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.svgrepo.com/show/349342/docker.svg"
+          alt="docker"
+          width="40"
+          height="40"
+        />
+      </a>
+    </td>
+  </table>
+
+
+  <br />
+  <br />
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
